@@ -22,5 +22,4 @@ rclone mount oss:rt-sg /mnt/oss/rt-sg \
     --vfs-cache-mode writes \
     --s3-provider HuaweiOBS \
     --s3-endpoint obs.ap-southeast-3.myhuaweicloud.com \
-    --s3-region ap-southeast-3 \
-    --dns-servers 100.125.128.250
+    --s3-region ap-southeast-3
